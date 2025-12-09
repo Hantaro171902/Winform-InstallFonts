@@ -1,3 +1,5 @@
+using System.Windows.Forms;
+
 namespace InstallFonts
 {
     internal static class Program
